@@ -10,7 +10,8 @@ A form that allows student groups and clubs part of the Student Association (SA)
 
 ## Use
 
-The form can be found at https://www.forms.binghamtonsa.org/contract, however a form can only be submitted with a valid treasurer email and organization.
+https://www.forms.binghamtonsa.org/contract
+Note: A form can only be submitted with a valid treasurer email and organization.
 
 ## Credit
 
