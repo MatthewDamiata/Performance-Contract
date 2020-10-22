@@ -17,5 +17,8 @@ Note: A form can only be submitted with a valid treasurer email and organization
 ## Credit
 
 Software Lead & Back-End Developer: Matthew Damiata
+
 Front-End Developer: Daniel Sayegh
+
 Back-End Developers: Dyandra Allen and Anjali Kapur
+
