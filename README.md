@@ -6,7 +6,7 @@
 
 ## Project Description
 
-A form that allows student groups and clubs part of the Student Association (SA) to host performances as events. The form uses data from the SA database to crosscheck treasurer and group information for validation. When submitted, a confirmation email is sent to the treasure and the form is then uploaded to the SA dashboard where the VPF or Financial Director can approve or reject the form.
+A form that allows student groups and clubs part of the Student Association (SA) to host performances as events. The form uses data from the SA database to crosscheck treasurer and group information for validation. When submitted, a confirmation email is sent to the treasure and the form is then uploaded to the SA dashboard where the VPF or Financial Director can approve or reject the form. This form was created to make the organization more streamlined and curb the spread of COVID-19 by going fully online.
 
 ## Use
 
